@@ -1,2 +1,2 @@
-# CRUD-PHP
-Aprenda a criar um CRUD com PHP e MySQL de maneira rápida e fácil.
+# CRUD-PHP-MySQLi
+Aprenda a criar um CRUD com PHP e MySQLi de maneira rápida e fácil.
